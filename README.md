@@ -17,10 +17,10 @@
 **Predict**: Provide accurate AQI predictions from pollutant readings.
 **Understand**: Visualize temporal AQI trends and per-city distributions.
 
-Executed outputs required: GitHub shows visuals only if the notebook contains saved outputs.
-(The repo now includes a Line chart (time-series) and a Box plot (box-and-whisker) with a Loss curve (training/validation line plot).
+**Executed outputs required**: GitHub shows visuals only if the notebook contains saved outputs.
+**(The repo now includes a Line chart (time-series) and a Box plot (box-and-whisker) with a Loss curve (training/validation line plot).
 Interactivity: Plotly interactivity is not supported inside GitHub’s notebook viewer; use the exported HTML for interactive charts.
-
+**
 **Conclusion:**
 
 The project produces a working AQI prediction notebook, static and interactive visual reports, and a persisted model/scaler.
