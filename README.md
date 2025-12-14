@@ -21,7 +21,7 @@
 **(The repo now includes a Line chart (time-series) and a Box plot (box-and-whisker) with a Loss curve (training/validation line plot).
 Interactivity: Plotly interactivity is not supported inside GitHub’s notebook viewer; use the exported HTML for interactive charts.
 **
-**Conclusion:**
 
+**Conclusion:**
 The project produces a working AQI prediction notebook, static and interactive visual reports, and a persisted model/scaler.
 Next steps: improve model performance (feature engineering, cross-validation, hyperparameter search), add automated evaluation scripts, and deploy predictions as an API or dashboard.
